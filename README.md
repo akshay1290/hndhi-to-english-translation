@@ -1,1 +1,1 @@
-# hndhi-to-english-translation
+# hidhi-to-english-translation
